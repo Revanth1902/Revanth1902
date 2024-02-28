@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @Revanth1902
-- 👀 I’m interested in React js,Html,css,js,tailwind;
-- 🌱 I’m currently learning React js
-- 💞️ I’m looking to collaborate on Web apps
-- 📫 How to reach me revanth19a@gmail.com
+👋 Hi, I'm Revanth, a Computer Engineering graduate with a passion for web development.
 
+🚀 I specialize in React, JavaScript, HTML, CSS, and I'm always eager to learn more. Currently diving into new technologies and enhancing my skills.
 
-<!---
-Revanth1902/Revanth1902 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Tech Stack:
+   - React.js | JavaScript
+   - HTML | CSS | Tailwind CSS
+
+📚 Constantly learning and exploring new opportunities in the world of web development.
+
+🌐 Let's connect and build something amazing together!
