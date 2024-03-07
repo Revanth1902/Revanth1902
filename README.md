@@ -1,6 +1,6 @@
 👋 Hi, I'm Revanth, a Computer Engineering graduate with a passion for web development.
 
-🚀 I specialize in React, JavaScript, HTML, CSS, and I'm always eager to learn more. Currently diving into new technologies and enhancing my skills.
+🚀 I specialize in React, JavaScript, HTML, CSS, Tailwind CSS and I'm always eager to learn more. Currently diving into new technologies and enhancing my skills.
 
 💻 Tech Stack:
    - React.js | JavaScript
